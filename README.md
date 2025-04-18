@@ -59,7 +59,7 @@ Esta atividade aborda os fundamentos de **matemática discreta** aplicados à te
     ```
 
 ### 📌 Arquivos
-- **Repositório Git.
+- Repositório Git.
 - Arquivos obrigatórios: `.ipynb` + `.pdf`.
 
 ---
